@@ -6,9 +6,11 @@
 
 As a developer, I'm trying to learn game development and VR. I've developed more than a few games and prototypes with Unity. You can stalk my profile and figure it out! I'm still learning, but I'm a quick learner who loves experimenting with new tech.
 
-<a href="https://github.com/berk-celikten"><img src="https://img.shields.io/badge/berk--celikten-007bc7?style=flat-square" alt="GitHub Username" /></a>
-[![GitHub Follow](https://img.shields.io/github/followers/berk-celikten?label=Follow&style=social)](https://github.com/berk-celikten)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-%C3%A7elikten)
+<br>
+
+<a href="https://www.linkedin.com/in/berk-%C3%A7elikten"><img src="https://img.shields.io/badge/berk--celikten-007ec6?style=flat&logo=none" alt="LinkedIn Profile" /></a> [![GitHub Follow](https://img.shields.io/github/followers/berk-celikten?label=Follow&style=social)](https://github.com/berk-celikten)
+
+<br><br>
 
 ### A little more about me...
 
