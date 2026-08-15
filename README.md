@@ -12,7 +12,7 @@ As a developer, I'm trying to learn game development and VR. I've developed more
 
 ### A little more about me...
 
-<img width="497" height="280" alt="Computer01" src="https://github.com/user-attachments/assets/1a2f49fb-f122-4320-a19d-ffe40b19f881" />
+<img width="320" alt="Computer01" src="https://github.com/user-attachments/assets/1a2f49fb-f122-4320-a19d-ffe40b19f881" />
 
 ```javascript
 const berk = {
@@ -27,4 +27,3 @@ const berk = {
   askMeAbout: ["VR Development", "Game Mechanics", "Unity/Unreal"],
   funFact: "Always riding on two wheels or diving into deep waters!"
 };
-
