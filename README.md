@@ -6,7 +6,7 @@
 
 I build web applications with Java, Spring Boot, React and Oracle, and games with Unity. My main web projects are HesapLab and BankFlow: banking simulations covering account management, transfers and access control. I also published NeonReflexVR, a PC VR game, on itch.io.
 
-I'm interested in junior web/backend, full-stack and Unity game developer opportunities.
+I'm open to junior opportunities related to computer engineering, including web/backend, full-stack and Unity game development.
 
 <a href="https://www.linkedin.com/in/berk-%C3%A7elikten"><img src="https://img.shields.io/badge/berk--celikten-007ec6?style=flat&logo=none" alt="LinkedIn Profile" /></a> [![GitHub Follow](https://img.shields.io/github/followers/berk-celikten?label=Follow&style=social)](https://github.com/berk-celikten)
 
